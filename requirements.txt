@@ -1,0 +1,5 @@
+SQLAlchemy>=2.0.40
+mysql-connector-python==8.0.33
+Faker==18.9.0
+streamlit==1.43.2
+Flask>=2.3.0
